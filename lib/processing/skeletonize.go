@@ -1,6 +1,6 @@
 package processing
 
-import "github.com/alevinval/fingerprints/internal/matrix"
+import "github.com/alevinval/fingerprints/lib/matrix"
 
 func Skeletonize(in *matrix.M) {
 	bounds := in.Bounds()

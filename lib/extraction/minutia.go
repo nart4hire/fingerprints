@@ -1,8 +1,8 @@
 package extraction
 
 import (
-	"github.com/alevinval/fingerprints/internal/matrix"
-	"github.com/alevinval/fingerprints/internal/types"
+	"github.com/alevinval/fingerprints/lib/matrix"
+	"github.com/alevinval/fingerprints/lib/types"
 )
 
 // Minutia retrieves fingerprint features from a skeletonized image. Each

@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/alevinval/fingerprints/internal/matching"
-	"github.com/alevinval/fingerprints/internal/types"
+	"github.com/alevinval/fingerprints/lib/matching"
+	"github.com/alevinval/fingerprints/lib/types"
 )
 
 func main() {

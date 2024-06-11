@@ -1,7 +1,7 @@
 package kernel
 
 import (
-	"github.com/alevinval/fingerprints/internal/matrix"
+	"github.com/alevinval/fingerprints/lib/matrix"
 )
 
 type multiplication struct {

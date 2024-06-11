@@ -6,9 +6,9 @@ import (
 	"math"
 	"sync"
 
-	"github.com/alevinval/fingerprints/internal/helpers"
-	"github.com/alevinval/fingerprints/internal/matrix"
-	"github.com/alevinval/fingerprints/internal/types"
+	"github.com/alevinval/fingerprints/lib/helpers"
+	"github.com/alevinval/fingerprints/lib/matrix"
+	"github.com/alevinval/fingerprints/lib/types"
 )
 
 const (

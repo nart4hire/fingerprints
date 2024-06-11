@@ -5,12 +5,13 @@ import (
 	"image"
 	"testing"
 
-	"github.com/alevinval/fingerprints/internal/helpers"
-	"github.com/alevinval/fingerprints/internal/matrix"
+	"github.com/alevinval/fingerprints/lib/helpers"
+	"github.com/alevinval/fingerprints/lib/matrix"
 	"github.com/stretchr/testify/assert"
 )
 
-/**
+/*
+*
 Multiplication kernel does (x, y) = SUM((ax, ay) * (bx, by))
 The following operation with offset 1:
 

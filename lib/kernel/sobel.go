@@ -1,6 +1,6 @@
 package kernel
 
-import "github.com/alevinval/fingerprints/internal/matrix"
+import "github.com/alevinval/fingerprints/lib/matrix"
 
 var (
 	SobelDx = &sobel{mat: [3][3]float64{{-1, 0, 1}, {-2, 0, 2}, {-1, 0, 1}}}

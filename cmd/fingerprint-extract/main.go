@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/alevinval/fingerprints/internal/extraction"
-	"github.com/alevinval/fingerprints/internal/helpers"
+	"github.com/alevinval/fingerprints/lib/extraction"
+	"github.com/alevinval/fingerprints/lib/helpers"
 )
 
 func main() {

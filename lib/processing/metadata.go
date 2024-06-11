@@ -3,8 +3,8 @@ package processing
 import (
 	"math"
 
-	"github.com/alevinval/fingerprints/internal/matrix"
-	"github.com/alevinval/fingerprints/internal/types"
+	"github.com/alevinval/fingerprints/lib/matrix"
+	"github.com/alevinval/fingerprints/lib/types"
 )
 
 // Metadata about the input image that can be re-used across
