@@ -1,3 +1,6 @@
+# Source
+This is a fork of Alexinval's Fingerprint Minutiae Extractor, made to expose the internal library for use in a personal project.
+
 # Fingerprints
 
 Fingerprint image analysis in Go. Identify, compare and match biometric
