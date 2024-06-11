@@ -1,10 +1,10 @@
 package extraction
 
 import (
-	"github.com/alevinval/fingerprints/lib/kernel"
-	"github.com/alevinval/fingerprints/lib/matrix"
-	"github.com/alevinval/fingerprints/lib/processing"
-	"github.com/alevinval/fingerprints/lib/types"
+	"github.com/nart4hire/fingerprints/lib/kernel"
+	"github.com/nart4hire/fingerprints/lib/matrix"
+	"github.com/nart4hire/fingerprints/lib/processing"
+	"github.com/nart4hire/fingerprints/lib/types"
 )
 
 // DetectionResult applies all the available image processing

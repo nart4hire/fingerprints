@@ -4,8 +4,8 @@ import (
 	"image"
 	"testing"
 
-	"github.com/alevinval/fingerprints/lib/matrix"
-	"github.com/alevinval/fingerprints/lib/types"
+	"github.com/nart4hire/fingerprints/lib/matrix"
+	"github.com/nart4hire/fingerprints/lib/types"
 	"github.com/stretchr/testify/assert"
 )
 

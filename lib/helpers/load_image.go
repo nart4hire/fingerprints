@@ -9,7 +9,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/alevinval/fingerprints/lib/matrix"
+	"github.com/nart4hire/fingerprints/lib/matrix"
 	"github.com/nfnt/resize"
 )
 

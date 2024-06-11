@@ -1,4 +1,4 @@
-module github.com/alevinval/fingerprints
+module github.com/nart4hire/fingerprints
 
 go 1.15
 

@@ -7,12 +7,12 @@ import (
 	"os"
 	"path"
 
-	"github.com/alevinval/fingerprints/lib/debug"
-	"github.com/alevinval/fingerprints/lib/extraction"
-	"github.com/alevinval/fingerprints/lib/helpers"
-	"github.com/alevinval/fingerprints/lib/kernel"
-	"github.com/alevinval/fingerprints/lib/matrix"
-	"github.com/alevinval/fingerprints/lib/processing"
+	"github.com/nart4hire/fingerprints/lib/debug"
+	"github.com/nart4hire/fingerprints/lib/extraction"
+	"github.com/nart4hire/fingerprints/lib/helpers"
+	"github.com/nart4hire/fingerprints/lib/kernel"
+	"github.com/nart4hire/fingerprints/lib/matrix"
+	"github.com/nart4hire/fingerprints/lib/processing"
 )
 
 var outFolderPath = "out"

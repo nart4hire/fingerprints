@@ -3,7 +3,7 @@ package kernel
 import (
 	"math"
 
-	"github.com/alevinval/fingerprints/lib/matrix"
+	"github.com/nart4hire/fingerprints/lib/matrix"
 )
 
 type sqrt struct {

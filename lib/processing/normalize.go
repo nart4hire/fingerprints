@@ -5,9 +5,9 @@ import (
 	"math"
 	"sync"
 
-	"github.com/alevinval/fingerprints/lib/helpers"
-	"github.com/alevinval/fingerprints/lib/matrix"
-	"github.com/alevinval/fingerprints/lib/types"
+	"github.com/nart4hire/fingerprints/lib/helpers"
+	"github.com/nart4hire/fingerprints/lib/matrix"
+	"github.com/nart4hire/fingerprints/lib/types"
 )
 
 func Normalize(in, out *matrix.M, meta types.Metadata) {

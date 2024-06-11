@@ -4,8 +4,8 @@ import (
 	"image"
 	"sync"
 
-	"github.com/alevinval/fingerprints/lib/helpers"
-	"github.com/alevinval/fingerprints/lib/matrix"
+	"github.com/nart4hire/fingerprints/lib/helpers"
+	"github.com/nart4hire/fingerprints/lib/matrix"
 )
 
 type Kernel interface {

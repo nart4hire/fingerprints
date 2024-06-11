@@ -4,7 +4,7 @@ import (
 	"image"
 	"sync"
 
-	"github.com/alevinval/fingerprints/lib/matrix"
+	"github.com/nart4hire/fingerprints/lib/matrix"
 )
 
 // GenerateSubBounds based on an input matrix. Useful to run algorithms

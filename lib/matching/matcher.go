@@ -3,7 +3,7 @@ package matching
 import (
 	"math"
 
-	"github.com/alevinval/fingerprints/lib/types"
+	"github.com/nart4hire/fingerprints/lib/types"
 )
 
 func Match(r1, r2 types.DetectionResult) types.MinutiaeList {

@@ -1,7 +1,7 @@
 package kernel
 
 import (
-	"github.com/alevinval/fingerprints/lib/matrix"
+	"github.com/nart4hire/fingerprints/lib/matrix"
 )
 
 type multiplication struct {
